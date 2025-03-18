@@ -1,6 +1,3 @@
-![.]([https://github.com/kullanıcı_adı/repo_adı/raw/main/resim_adı.jpg](https://github.com/meliktunccc/meliktunc/blob/main/y9ih2d9mmuuz.webp))
-
-
 <h1 align="center">Hi 👋, I'm Melik</h1>
 <h3 align="center">A passionate full stack developer from turkey</h3>
 
